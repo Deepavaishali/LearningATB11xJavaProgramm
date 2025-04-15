@@ -75,6 +75,7 @@ public class Lab134_arith_functions {
     }
 
     static int mod(int a, int b){
+
         return a%b;
     }
 
